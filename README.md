@@ -9,5 +9,5 @@ Complete an Excel sheet with each User Story under each Sprint. Use a word docum
 Most User Stories fall into two categories so will need to be broken down. You may find you might dedicate one sprint on one User Story. There is no right or wrong way to do this the main thing is to ensure the client is satisfied – however – you also need to manage client expectations and as a Product Owner you need to do what is best for the Product.
 - USING NUMBERS AND PAGES
 - SUDO CODE - See spreadsheet and word document
-- CHALLENGES FACED - 
-- HOW I OVERCAME THIS CHALLENGE - 
+- CHALLENGES FACED - This was the first time I was working with anything like agile. I am not well versed in these sorts of methods of working.
+- HOW I OVERCAME THIS CHALLENGE - I read through the weeks notes a lot and tried to get into the head of my customer to see what I would like out of this.
